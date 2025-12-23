@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="843" width="1169">
+ 
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#FFEBA2" height="60.49383" id="8f2fa844a3e8463892efd03e0198529e-oa-1" stroke="#2D2D2D" width="145.67901" x="681.61726" y="9.26335"/>
+  <rect fill="#FFEBA2" height="97.53086" id="8f2fa844a3e8463892efd03e0198529e-oa-2" stroke="#2D2D2D" width="172.8395" x="427.29627" y="188.27569"/>
+  <rect fill="#FFEBA2" height="49.38272" id="8f2fa844a3e8463892efd03e0198529e-oa-3" stroke="#2D2D2D" width="169.1358" x="324.82713" y="395.6831"/>
+  <g id="8f2fa844a3e8463892efd03e0198529e-oa-4">
+   <rect fill="#FFEBA2" height="67.90123" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="391.35802" x="758.16046" y="620.37445"/>
+   <rect fill="#FFEBA2" height="61.72839" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="365.43209" x="298.90121" y="767.28803"/>
+  </g>
+ </g>
+</svg>
